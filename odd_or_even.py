@@ -1,3 +1,4 @@
+# SWDV 610: Data Structures and Algorithms
 # Function that returns whether an inputted number is odd or even
 
 def odd_or_even():

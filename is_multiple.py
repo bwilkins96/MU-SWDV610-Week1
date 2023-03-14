@@ -1,3 +1,4 @@
+# SWDV 610: Data Structures and Algorithms
 # Function that takes two integers (n, m) and returns whether n is a multiple of m
 
 def is_multiple(n, m):

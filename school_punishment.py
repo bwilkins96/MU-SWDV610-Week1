@@ -1,3 +1,4 @@
+# SWDV 610: Data Structures and Algorithms
 # Prints 'I will never spam my friends again.' 100 times
 
 def main():
